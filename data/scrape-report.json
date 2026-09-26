@@ -1,18 +1,18 @@
 {
-  "scraped_at": "2026-09-20T11:02:17+09:00",
+  "scraped_at": "2026-09-26T16:56:43+09:00",
   "target_sources": 10,
   "successful_sources": 10,
   "failed_sources": 0,
   "disabled_sources": 0,
-  "events": 45,
-  "thumbnails": 45,
+  "events": 42,
+  "thumbnails": 37,
   "sources": [
     {
       "source_group": "haja-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 83238,
+      "html_chars": 83241,
       "candidate_links": 23,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -25,16 +25,16 @@
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
       "events": 3,
-      "elapsed_ms": 1425
+      "elapsed_ms": 1160
     },
     {
       "source_group": "mullae-youth-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 47936,
+      "html_chars": 47935,
       "candidate_links": 5,
-      "multi_image_posts": 1,
+      "multi_image_posts": 2,
       "multi_image_events": 13,
       "listing_courses": null,
       "detail_requested_courses": null,
@@ -45,14 +45,14 @@
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
       "events": 13,
-      "elapsed_ms": 840
+      "elapsed_ms": 823
     },
     {
       "source_group": "ydp-art-hall-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 63015,
+      "html_chars": 63078,
       "candidate_links": 68,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -65,14 +65,14 @@
       "ydpcf_page_one_details": 12,
       "lalaland_first_row_posts": null,
       "events": 10,
-      "elapsed_ms": 798
+      "elapsed_ms": 797
     },
     {
       "source_group": "ydp-art-square-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 304664,
+      "html_chars": 304672,
       "candidate_links": 35,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -85,15 +85,15 @@
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
       "events": 2,
-      "elapsed_ms": 1326
+      "elapsed_ms": 1295
     },
     {
       "source_group": "ydp-district-news",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 147000,
-      "candidate_links": 123,
+      "html_chars": 146563,
+      "candidate_links": 121,
       "multi_image_posts": 0,
       "multi_image_events": 0,
       "listing_courses": null,
@@ -101,18 +101,18 @@
       "generic_detail_pages": null,
       "latest_notice_details": null,
       "imweb_latest_notice_details": null,
-      "ydp_news_first_page_details": 5,
+      "ydp_news_first_page_details": 3,
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
-      "events": 2,
-      "elapsed_ms": 992
+      "events": 1,
+      "elapsed_ms": 806
     },
     {
       "source_group": "ydp-lalaland-programs",
       "status": "ok",
       "fetch_mode": "browser",
       "http_status": 200,
-      "html_chars": 191337,
+      "html_chars": 191473,
       "candidate_links": 4,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -124,35 +124,35 @@
       "ydp_news_first_page_details": null,
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": 4,
-      "events": 1,
-      "elapsed_ms": 2110
+      "events": 0,
+      "elapsed_ms": 5420
     },
     {
       "source_group": "ydp-lifelong-learning-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 82489,
+      "html_chars": 82477,
       "candidate_links": 63,
       "multi_image_posts": 0,
       "multi_image_events": 0,
-      "listing_courses": 68,
-      "detail_requested_courses": 3,
+      "listing_courses": 71,
+      "detail_requested_courses": 5,
       "generic_detail_pages": null,
       "latest_notice_details": null,
       "imweb_latest_notice_details": null,
       "ydp_news_first_page_details": null,
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
-      "events": 3,
-      "elapsed_ms": 1258
+      "events": 5,
+      "elapsed_ms": 1203
     },
     {
       "source_group": "ydp-youth-culture-house-programs",
       "status": "ok",
       "fetch_mode": "browser",
       "http_status": 200,
-      "html_chars": 671334,
+      "html_chars": 671472,
       "candidate_links": 75,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -164,15 +164,15 @@
       "ydp_news_first_page_details": null,
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
-      "events": 1,
-      "elapsed_ms": 2036
+      "events": 2,
+      "elapsed_ms": 2186
     },
     {
       "source_group": "ydplib-integrated-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 39613,
+      "html_chars": 39614,
       "candidate_links": 76,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -184,15 +184,15 @@
       "ydp_news_first_page_details": null,
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
-      "events": 7,
-      "elapsed_ms": 557
+      "events": 4,
+      "elapsed_ms": 572
     },
     {
       "source_group": "young1318-short-term-programs",
       "status": "ok",
       "fetch_mode": "static",
       "http_status": 200,
-      "html_chars": 27409,
+      "html_chars": 27407,
       "candidate_links": 54,
       "multi_image_posts": 0,
       "multi_image_events": 0,
@@ -204,8 +204,8 @@
       "ydp_news_first_page_details": null,
       "ydpcf_page_one_details": null,
       "lalaland_first_row_posts": null,
-      "events": 3,
-      "elapsed_ms": 465
+      "events": 2,
+      "elapsed_ms": 487
     }
   ]
 }
