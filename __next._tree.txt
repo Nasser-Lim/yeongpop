@@ -1,2 +1,2 @@
 :HL["/yeongpop/_next/static/chunks/0i184ihd04-ux.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"IxwPxztKHX9-Snb021SQ5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"61rPqA3BzbL3qmK3ytmb8"}
