@@ -1,4 +1,4 @@
-:HL["/yeongpop/_next/static/chunks/1vuu6221afye0.css","style"]
+:HL["/yeongpop/_next/static/chunks/11_l_uy-9l5fa.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
-0:{"b":"NlXv3Mp_TsvGuEnnw6XfA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"TVxpDM2kMMk3SGyVU21If","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
