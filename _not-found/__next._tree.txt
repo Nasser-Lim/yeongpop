@@ -1,4 +1,4 @@
 :HL["/yeongpop/_next/static/chunks/28oljmz-3u1y3.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"X5EXh_6QDMPLlWUG1CNel","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"u4_lR8rxt80a6-ol0nlN2","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
