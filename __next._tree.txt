@@ -1,3 +1,3 @@
-:HL["/yeongpop/_next/static/chunks/3-blc1zrzubef.css","style"]
+:HL["/yeongpop/_next/static/chunks/2r6za8j4gnvj8.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"IZpaiKym1xDQvU5TP8p1c","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_Mc_fiBTrRJM5IGa01bgI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
